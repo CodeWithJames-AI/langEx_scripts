@@ -1,2 +1,2 @@
-# langExtract
-LangExtract on chemical compound Data
+# langEx_scripts
+LangExtract scripts for extracting the chemical compounds entities
